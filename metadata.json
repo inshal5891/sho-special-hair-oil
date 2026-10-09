@@ -1,0 +1,7 @@
+{
+  "name": "Cast & Render — 3D Object Studio",
+  "description": "A scroll-scrubbed video landing page for fictional 3D studio Cast & Render.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
